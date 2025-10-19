@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.1",
-  "buildNumber": 2,
+  "latestVersion": "1.0.0",
+  "buildNumber": 1,
   "downloadUrl": "https://your-server.com/vfashion-v1.0.1.apk",
   "isForceUpdate": false,
   "changelog": "• Fixed login issues\n• Improved performance\n• Added new features\n• Bug fixes and improvements"
