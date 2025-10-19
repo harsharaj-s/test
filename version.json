@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.0.1",
   "buildNumber": 2,
-  "downloadUrl": "https://your-server.com/vfashion-v1.0.1.apk",
+  "downloadUrl": "https://github.com/harsharaj-s/test/releases/download/v_1.1/app-release.apk",
   "isForceUpdate": true,
   "changelog": "• Fixed login issues\n• Improved performance\n• Bug fixes and improvements"
 }
